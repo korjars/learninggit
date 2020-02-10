@@ -1,4 +1,7 @@
-# learninggit
+与本地自建learninggit连接尝试
+与本地自建learninggit连接尝试
+与本地自建learninggit连接尝试
+与本地自建learninggit连接尝试
 
 #### Description
 gitee与本地仓库尝试连接
@@ -35,3 +38,6 @@ Software architecture description
 4.  The most valuable open source project [GVP](https://gitee.com/gvp)
 5.  The manual of Gitee [https://gitee.com/help](https://gitee.com/help)
 6.  The most popular members  [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+=======
+与本地自建learninggit连接尝试
+
